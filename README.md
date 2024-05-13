@@ -15,7 +15,8 @@ $ make Pacman
 $ ./Pacman
 ```
 
-#Textures
+# Textures
+You can find all the textures used in this project in (assets/images/texture) path. A detailed explanation of the logic behind applying each texture in each shape inside the game can be found in the following images.
 
 # Pacman Textures
 ![PacmanTextures](https://github.com/iamtomorrow/Pacman/assets/72582696/6fdad860-0447-471b-8772-c80af0cd784a)
