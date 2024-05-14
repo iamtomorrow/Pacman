@@ -1,6 +1,11 @@
 # Pacman
 Pacman was developed by iamtomorrow using C++, SFML library, and CMake. This project has a very basic mathematical foundation in geometry which is responsible for determining Monsters' movements inside the grid based on Pacman's x and y coordinates relative to it, but further implementation will make their movements in charge of the Laniakea neural network, a forward project developed by ourselves.
 
+# Clone Repository
+```
+git clone https://github.com/iamtomorrow/Pacman/tree/iamtomorrow
+```
+
 # Setup and Run
 This project was made with CMake, so to run the program on your computer you will need to create a build directory and compile the code through simpole CMake commands.
 ```
