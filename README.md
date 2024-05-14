@@ -12,7 +12,7 @@ git clone https://github.com/iamtomorrow/Pacman/tree/iamtomorrow
 ```
 
 # Setup and Run
-This project was made with CMake, so to run the program on your computer you will need to create a build directory and compile the code through simpole CMake commands.
+This project was made with CMake, so to run the program on your computer you will need to create a build directory and compile the code through simple CMake commands.
 ```
 $ mkdir build
 ```
