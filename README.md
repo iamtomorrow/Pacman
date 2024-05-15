@@ -37,3 +37,9 @@ You can find all the textures used in this project in (assets/images/texture) pa
 
 # Cell Texture
 ![CellTextures](https://github.com/iamtomorrow/Pacman/assets/72582696/dcc96981-68f6-4e67-97b5-b7e85566575c)
+
+# The Math Behind Monster's Movements
+You can find the detailed formulas and parameters used for examples in this link: https://www.desmos.com/calculator/16gn6evw2a.
+![Screenshot from 2024-05-14 21-38-19](https://github.com/iamtomorrow/Pacman/assets/72582696/0b23643a-4b12-44b1-a115-cb3d0d0135b1)
+
+https://github.com/iamtomorrow/Pacman/assets/72582696/661cdcba-b4d8-4f75-9902-5bfee488d94d
